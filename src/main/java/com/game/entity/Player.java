@@ -54,6 +54,10 @@ public class Player {
         this.banned = banned;
     }
 
+    public Player() {
+
+    }
+
     public Long getId() {
         return id;
     }
